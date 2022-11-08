@@ -1,0 +1,16 @@
+.input {
+    background: #FFFFFF;
+    border: 1px solid #B6B6B6;
+    border-radius: 4px;
+    height: 60px;
+    width: 80%;
+    min-width: 132px;
+    padding: 10px;
+    font-size: large;
+
+}
+
+.input::placeholder {
+    font-size: large;
+    vertical-align: middle;
+}

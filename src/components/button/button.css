@@ -1,0 +1,11 @@
+.button {
+    background: #FFFFFF;
+    border: 1px solid #B6B6B6;
+    border-radius: 4px;
+    width: 20%;
+    font-size: large;
+}
+
+.button:clicked {
+    background-color: bisque;
+}

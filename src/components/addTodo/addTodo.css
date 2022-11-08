@@ -1,0 +1,9 @@
+.addTodo {
+    display: flex;
+    flex-direction: column;
+}
+
+.addTodo__form {
+    display: flex;
+    gap: 20px;
+}

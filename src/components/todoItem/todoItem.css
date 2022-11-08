@@ -1,0 +1,16 @@
+.todoItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #FFFFFF;
+    border: 1px solid #B6B6B6;
+    border-radius: 4px;
+    height: 75px;
+    padding: 16px;
+}
+
+.todoItem__right {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}

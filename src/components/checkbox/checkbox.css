@@ -1,0 +1,15 @@
+.checkbox {
+    width: 44px;
+    height: 44px;
+    appearance: none;
+    background: #FFFFFF;
+    border: 1px solid #B6B6B6;
+    border-radius: 4px;
+    background-position: right top;
+    transition: all .05s ease-in;
+}
+
+.checkbox:checked {
+    background: url(../../assets/img/tick.svg) no-repeat;
+    background-position: center center;
+}
